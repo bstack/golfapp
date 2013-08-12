@@ -1,0 +1,4 @@
+# bin and obj directories at any depth
+bin/
+obj/
+.metadata/
